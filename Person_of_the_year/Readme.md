@@ -1,5 +1,5 @@
 # Person Of the Year #
-This Application allows user unput to search thru a set list of person of the year.
+This web application allows user unput to search thru a set list of person of the year. There are only currently one index page and one results page. This was built using .NET core framework, no scaffle was involved.
 
 ## Author:
 Tiger Hsu <br>
