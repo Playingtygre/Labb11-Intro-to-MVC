@@ -1,5 +1,5 @@
 # Person Of the Year #
-This Application allows user unput to search thru TIME PERSON OF THE YEAR database using years.
+This Application allows user unput to search thru a set list of person of the year.
 
 ## Author:
 Tiger Hsu <br>
@@ -10,7 +10,7 @@ Amanada Iverson <br>
 Phil Werner <br>
 
 ## Version:
-1.0.0 
+2.0.0 
 
 ## Overview
 This is my first exposure to the .NET frame work using C#, This is an application that allows for
@@ -52,4 +52,4 @@ MIT License
 
 ## Change Log
 
-04-06-2018 4:59pm 
+04-08-2018 4:59pm 
