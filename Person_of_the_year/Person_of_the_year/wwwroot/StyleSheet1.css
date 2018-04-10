@@ -1,3 +1,17 @@
 ﻿body {
-    background-color:deeppink;
+    text-align: center;
+    border-style: solid;
+    border-width: 10px;
+    border-color: red;
+}
+
+h1 {
+    margin-top: 25px;
+    margin-bottom: 5px;
+}
+
+#input {
+    font: bold;
+    margin-top: 25px;
+    margin-bottom: 25px;
 }
